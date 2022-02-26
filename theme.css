@@ -80,6 +80,8 @@ li, a {
 	align-items: center;
 	justify-content: center;
 	text-align: center;
+	-webkit-text-stroke-width: .5px;
+	-webkit-text-stroke-color: orange;
 }
 
 #name h1 {
